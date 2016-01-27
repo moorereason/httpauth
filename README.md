@@ -3,6 +3,9 @@ httpauth
 
 Package httpauth provides a goa middleware that implements Basic HTTP authentication.
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/moorereason/httpauth/blob/master/LICENSE)
+[![Godoc](https://godoc.org/github.com/moorereason/httpauth?status.svg)](http://godoc.org/github.com/moorereason/httpauth)
+
 Middleware
 ----------
 
